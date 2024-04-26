@@ -1,0 +1,175 @@
+Enter filename:
+Read in 253 words
+Encountered 136 unique words
+
+Word Counts
+  1 : A                :  8
+  2 : ACROSS           :  2
+  3 : ACTUALLY         :  1
+  4 : AFTER            :  1
+  5 : AFTERWARDS       :  1
+  6 : ALICE            :  4
+  7 : ALL              :  1
+  8 : AND              :  8
+  9 : AS               :  2
+ 10 : AT               :  3
+ 11 : BANK             :  1
+ 12 : BE               :  2
+ 13 : BEFORE           :  1
+ 14 : BEGINNING        :  1
+ 15 : BOOK             :  2
+ 16 : BURNING          :  1
+ 17 : BUT              :  3
+ 18 : BY               :  2
+ 19 : CLOSE            :  1
+ 20 : CONSIDERING      :  1
+ 21 : CONVERSATION     :  1
+ 22 : CONVERSATIONS    :  1
+ 23 : COULD            :  1
+ 24 : CURIOSITY        :  1
+ 25 : DAISIES          :  1
+ 26 : DAISY-CHAIN      :  1
+ 27 : DAY              :  1
+ 28 : DEAR             :  2
+ 29 : DID              :  1
+ 30 : DO               :  1
+ 31 : DOWN             :  1
+ 32 : EITHER           :  1
+ 33 : EYES             :  1
+ 34 : FEEL             :  1
+ 35 : FEET             :  1
+ 36 : FIELD            :  1
+ 37 : FLASHED          :  1
+ 38 : FOR              :  2
+ 39 : FORTUNATELY      :  1
+ 40 : GET              :  1
+ 41 : GETTING          :  1
+ 42 : HAD              :  3
+ 43 : HAVE             :  1
+ 44 : HAVING           :  1
+ 45 : HEAR             :  1
+ 46 : HEDGE            :  1
+ 47 : HER              :  8
+ 48 : HOT              :  1
+ 49 : HURRIED          :  1
+ 50 : I                :  1
+ 51 : IN               :  4
+ 52 : INTO             :  1
+ 53 : IS               :  1
+ 54 : IT               : 11
+ 55 : ITS              :  1
+ 56 : ITSELF           :  1
+ 57 : JUST             :  1
+ 58 : LARGE            :  1
+ 59 : LATE             :  1
+ 60 : LOOKED           :  1
+ 61 : MADE             :  1
+ 62 : MAKING           :  1
+ 63 : MIND             :  2
+ 64 : MUCH             :  1
+ 65 : NATURAL          :  1
+ 66 : NEVER            :  1
+ 67 : NO               :  1
+ 68 : NOR              :  1
+ 69 : NOTHING          :  2
+ 70 : OCCURRED         :  1
+ 71 : OF               :  8
+ 72 : OH               :  2
+ 73 : ON               :  2
+ 74 : ONCE             :  1
+ 75 : OR               :  4
+ 76 : OUGHT            :  1
+ 77 : OUT              :  3
+ 78 : OVER             :  1
+ 79 : OWN              :  1
+ 80 : PEEPED           :  1
+ 81 : PICKING          :  1
+ 82 : PICTURES         :  2
+ 83 : PINK             :  1
+ 84 : PLEASURE         :  1
+ 85 : POP              :  1
+ 86 : QUITE            :  1
+ 87 : RABBIT           :  4
+ 88 : RABBIT-HOLE      :  1
+ 89 : RAN              :  2
+ 90 : READING          :  1
+ 91 : REMARKABLE       :  1
+ 92 : SAY              :  1
+ 93 : SEE              :  1
+ 94 : SEEMED           :  1
+ 95 : SEEN             :  1
+ 96 : SHALL            :  1
+ 97 : SHE              :  7
+ 98 : SISTER           :  2
+ 99 : SITTING          :  1
+100 : SLEEPY           :  1
+101 : SO               :  3
+102 : STARTED          :  1
+103 : STUPID           :  1
+104 : SUDDENLY         :  1
+105 : TAKE             :  1
+106 : THAT             :  3
+107 : THE              : 13
+108 : THEN             :  1
+109 : THERE            :  1
+110 : THINK            :  1
+111 : THIS             :  1
+112 : THOUGHT          :  2
+113 : TIME             :  2
+114 : TIRED            :  1
+115 : TO               :  9
+116 : TOOK             :  1
+117 : TROUBLE          :  1
+118 : TWICE            :  1
+119 : UNDER            :  1
+120 : UP               :  1
+121 : USE              :  1
+122 : VERY             :  4
+123 : WAISTCOAT-POCKET :  2
+124 : WAS              :  5
+125 : WATCH            :  2
+126 : WAY              :  1
+127 : WELL             :  1
+128 : WHAT             :  1
+129 : WHEN             :  3
+130 : WHETHER          :  1
+131 : WHITE            :  1
+132 : WITH             :  3
+133 : WITHOUT          :  1
+134 : WONDERED         :  1
+135 : WORTH            :  1
+136 : WOULD            :  1
+
+Letter Counts
+A :  87
+B :  25
+C :  28
+D :  44
+E : 125
+F :  19
+G :  19
+H :  73
+I :  78
+J :   1
+K :  13
+L :  30
+M :   9
+N :  60
+O :  79
+P :  14
+Q :   1
+R :  66
+S :  58
+T : 118
+U :  31
+V :  10
+W :  28
+X :   0
+Y :  16
+Z :   0
+
+Least Frequent Word: ACTUALLY  1 (  0.395%)
+Most Frequent Word:  THE      13 (  5.138%)
+
+Least Frequent Letter: X   0 (  0.000%)
+Most Frequent Letter:  E 125 ( 12.112%)

@@ -1,0 +1,89 @@
+Enter filename:
+Read in 795 words
+Encountered 50 unique words
+
+Word Counts
+ 1 : A        : 56
+ 2 : AM       : 16
+ 3 : AND      : 25
+ 4 : ANYWHERE :  8
+ 5 : ARE      :  2
+ 6 : BE       :  4
+ 7 : BOAT     :  3
+ 8 : BOX      :  7
+ 9 : CAR      :  7
+10 : COULD    : 14
+11 : DARK     :  7
+12 : DO       : 37
+13 : EAT      : 23
+14 : EGGS     : 11
+15 : FOX      :  7
+16 : GOAT     :  4
+17 : GOOD     :  2
+18 : GREEN    : 11
+19 : HAM      : 11
+20 : HERE     : 11
+21 : HOUSE    :  8
+22 : I        : 83
+23 : IF       :  1
+24 : IN       : 40
+25 : LET      :  4
+26 : LIKE     : 44
+27 : MAY      :  4
+28 : ME       :  4
+29 : MOUSE    :  7
+30 : NOT      : 82
+31 : ON       :  6
+32 : OR       :  8
+33 : RAIN     :  4
+34 : SAM      : 19
+35 : SAY      :  5
+36 : SEE      :  4
+37 : SO       :  5
+38 : THANK    :  2
+39 : THAT     :  3
+40 : THE      : 11
+41 : THEM     : 59
+42 : THERE    :  9
+43 : THEY     :  2
+44 : TRAIN    :  8
+45 : TREE     :  6
+46 : TRY      :  4
+47 : WILL     : 18
+48 : WITH     : 18
+49 : WOULD    : 27
+50 : YOU      : 34
+
+Letter Counts
+A : 207
+B :  14
+C :  21
+D : 112
+E : 277
+F :   8
+G :  39
+H : 142
+I : 216
+J :   0
+K :  53
+L : 125
+M : 120
+N : 186
+O : 253
+P :   0
+Q :   0
+R :  85
+S :  59
+T : 241
+U :  90
+V :   0
+W :  71
+X :  14
+Y :  57
+Z :   0
+
+Least Frequent Word: IF  1 (  0.126%)
+Most Frequent Word:  I  83 ( 10.440%)
+
+Least Frequent Letter: J   0 (  0.000%)
+Most Frequent Letter:  E 277 ( 11.590%)
